@@ -1,9 +1,9 @@
 # HelloMyWorld
 
 Introduction Site ! you cannot contact me as there's no server settings !
-<a herf="https://st-itm.github.io/lab01-s21versurfer/"> </a>
+<p herf="https://st-itm.github.io/lab01-s21versurfer/"> </p>
 
 OOP Study Blog
-<a herf = "https://sillaboratory.tistory.com/"> </a>
+<p herf = "https://sillaboratory.tistory.com/"> </p>
 
 You can take a look at what I've done.
